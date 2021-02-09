@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">A passionate Computer Vision and Deep Learning developer from Turkey :flag_tr:  </h3>
+<h3 align="center">A passionate Computer Vision and Deep Learning developer from Turkey :computer:  </h3>
 
 
 
