@@ -21,3 +21,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/uzunb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/uzunb/" height="30" width="40" /></a>
 </p>
+
+<h4 align="center">Visitor count</h4>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/mehmetpekdemir/count.svg" />
+</p>
