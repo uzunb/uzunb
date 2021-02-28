@@ -24,5 +24,5 @@
 
 <h4 align="center">Visitor count</h4>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/mehmetpekdemir/count.svg" />
+  <img src="https://profile-counter.glitch.me/uzunb/count.svg" />
 </p>
